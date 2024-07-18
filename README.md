@@ -8,4 +8,4 @@ the bit lines provide the data to be read or written. The design of SRAM memory 
 Program Used: Virtual Circuit Board
 
 
-![](Uploading example.png)
+![](example.png)
