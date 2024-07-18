@@ -6,3 +6,6 @@ SRAM memory cell typically consists of logic gates configured to create a latch,
 the bit lines provide the data to be read or written. The design of SRAM memory cells involves using logic gates to keep the data stable without needing constant refreshing, unlike DRAM.
 
 Program Used: Virtual Circuit Board
+
+
+![Uploading vcb_2024.07.18_16.06.21.png…]()
